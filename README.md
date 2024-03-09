@@ -1,3 +1,2 @@
-This contains java projects with OOPs concepts.
-Projects :
+Java projects :
 1. Tic Tac Toe Game
