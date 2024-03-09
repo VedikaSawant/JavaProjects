@@ -1,1 +1,2 @@
-
+This contains a console based tic tac toe game made in eclipse ide
+It has four classes Tic_Tac_Toe, Board, Player and Game.
